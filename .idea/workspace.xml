@@ -28,10 +28,10 @@
       <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/zhaopin/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="44" column="25" lean-forward="true" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+            <state relative-caret-position="106">
+              <caret line="38" column="74" lean-forward="true" selection-start-line="38" selection-start-column="74" selection-end-line="38" selection-end-column="74" />
               <folding>
-                <marker date="1529427994865" expanded="true" signature="1211:1390" ph="insert into zp... " />
+                <marker date="1529428441318" expanded="true" signature="1209:1388" ph="insert into zp... " />
               </folding>
             </state>
           </provider>
@@ -219,10 +219,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/zhaopin/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="44" column="25" lean-forward="true" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+        <state relative-caret-position="106">
+          <caret line="38" column="74" lean-forward="true" selection-start-line="38" selection-start-column="74" selection-end-line="38" selection-end-column="74" />
           <folding>
-            <marker date="1529427994865" expanded="true" signature="1211:1390" ph="insert into zp... " />
+            <marker date="1529428441318" expanded="true" signature="1209:1388" ph="insert into zp... " />
           </folding>
         </state>
       </provider>
