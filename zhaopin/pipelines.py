@@ -36,7 +36,7 @@ import pymysql
 
 class ZhaopinPipeline (object):
     def process_item(self, item, spider):
-        conn=pymysql.connect(host='127.0.0.1',user='root',passwd='12345678',db='zhaopin',charset='utf8')
+        conn=pymysql.connect(host='127.0.0.1',user='root',passwd='123456789',db='zhaopin',charset='utf8')
         sql = "insert into zp(name,link,company,money,location) values('" + item["name"] + "','" + item["link"] + "','" + item["company"] + "','" + item["money"] + "','" + item["location"] + "')"
         conn.query (sql)
         print ('正在写入数据库')
